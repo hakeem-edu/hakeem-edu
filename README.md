@@ -1,16 +1,16 @@
-## Hi there 👋
+### hey, i'm hakim 👋
 
-<!--
-**hakeem-edu/hakeem-edu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🧑‍💻 Computer Science student from Morocco
+🚀 I build SaaS, websites & web products
 
-Here are some ideas to get you started:
+I like turning ideas into fast, simple and usable software ✨
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**▸ what i do**
+- 💻 SaaS & web apps
+- 🌐 websites & landing pages  
+- ⚡️ full-stack products
+
+**▸ stack**
+`typescript` `next.js` `tailwind` `node.js`
+
+🌱 currently learning & building
